@@ -1,0 +1,148 @@
+# Webalizer V2.23-08 Incremental Data - 02/24/2022 08:59:22
+2022 2 24 8 59 22
+87 87 1 13 0 0 1808954 0 0 1
+1 61 61 24 24
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+87 87 1808954 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+26 26 71705 0
+61 61 1737249 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+87
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/coadev/public_html/assets/js/extention/custom-materialize.js
+0 2 0 742394 0 0
+/home/coadev/public_html/assets/images/Evropska_unija.jpg
+0 2 0 31124 0 0
+/home/coadev/public_html/assets/images/logo.svg
+0 2 13568656 23120 0 0
+/home/coadev/public_html/assets/images/republika-slovenija.jpg
+0 2 0 21748 0 0
+/home/coadev/um_site/routes/web.php
+0 1 13567392 524 0 0
+/home/coadev/um_site/app/Http/Controllers/IndexController.php
+0 1 0 182 0 0
+/home/coadev/public_html/assets/css/style.css
+0 5 13568352 126245 0 0
+/home/coadev/public_html/assets/js/extention/flatpickr.js
+0 2 0 90382 0 0
+/home/coadev/um_site/resources/views/welcome.blade.php
+0 62 13567520 322003 0 0
+/home/coadev/public_html/assets/js/extention/choices.js
+0 2 13567888 398562 0 0
+/home/coadev/public_html/assets/css/style..css
+0 2 13567600 50498 0 0
+/home/coadev/um_site/resources/views/layouts/app.blade.php
+0 2 0 2172 0 0
+/home/coadev/public_html/assets/js/app.js
+0 2 13567744 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+188.124.203.229
+0 87 87 1808954 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+188.124.203.229
+0 87 87 1808954 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+coa@coa-dev.com
+0 87 87 1808954 1 0
+# End Of Table - usernames
